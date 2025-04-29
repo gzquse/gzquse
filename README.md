@@ -1,5 +1,5 @@
 ## Hi there 👋
-I like quantum information field and develop new ideas for quantum computer.
+I like quantum information and enjoy developing novel ideas for quantum computing.
 
 <!--
 **gzquse/gzquse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
